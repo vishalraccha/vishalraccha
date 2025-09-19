@@ -1,38 +1,29 @@
-👋 Hi, I'm Vishal!
+🚀 Vishal Raccha
+👨🏻‍💻 Software Engineer | ⚡ AI & Full-Stack Developer | 🎯 Problem Solver
+👋 About Me
 
-🧑‍💻 B.Tech in Computer Science & Engineering at NKOCET
+I’m Vishal Raccha, a passionate B.Tech CSE student at Dr. Babasaheb Ambedkar Technological University (DBATU), Maharashtra, India, driven by technological innovation and building real-world impactful solutions.
 
-🔥 Driven by a passion for technological innovation and building real-world solutions
+💻 Tech Stack
 
-📊 Proficient in Database Management and Development
+Languages: 🟦 C · ☕ Java · 🐍 Python · ⚡ JavaScript
 
-🎯 Focused on blending academic learning with emerging technologies to create impactful systems
+Frontend: 🎨 HTML5 · 🎭 CSS3 · ⚛️ React.js · 📱 React Native · 🎨 Tailwind CSS
 
+Backend: 🌐 Node.js · ⚡ Express.js
 
-👨🏻‍💻 Software Engineer sharing my journey and learnings in tech
+Databases: 🗄️ MySQL · 🍃 MongoDB · 🔥 Firebase
 
-👨🏻‍🎓 Pursuing Computer Science & Engineering at Dr. Babasaheb Ambedkar Technological University (DBATU), Maharashtra, India
+Other Tools: 🛠️ Git · GitHub · Postman · Android Studio · VS Code
 
-💭 Currently learning about New Technologies, and AI-powered applications
+📊 Core Strengths
 
+🌍 Full-Stack Web & Mobile Development
 
+🗄️ Database Design & Management (SQL + NoSQL)
 
-💻 Tech Stack:
+🤖 AI-Powered Applications & Automation
 
-Java · Python · C · HTML5 · CSS3 · JavaScript · React.js · React Native · Node.js · Express.js · MongoDB · MySQL
+🧩 Problem-Solving & Competitive Programming
 
-
-<!--
-**vishalraccha/vishalraccha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building Scalable Real-World Systems
